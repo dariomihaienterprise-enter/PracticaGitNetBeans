@@ -13,9 +13,14 @@ public class PracticaGitNetBeans {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println(saludar("DAW"));
+        System.out.println(despedir("DAW"));
     }
 
     public static String saludar(String nombre) {
         return "Hola, " + nombre + ". Proyecto versionado con Git desde NetBeans.";
+    }
+
+    public static String despedir(String nombre) {
+        return "Hasta pronto, " + nombre + ".";
     }
 }
