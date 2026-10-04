@@ -1,0 +1,13 @@
+# Salida de compilación de Maven
+target/
+
+# Configuración privada de NetBeans
+nbproject/private/
+
+# Otros archivos generados
+*.class
+*.log
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
