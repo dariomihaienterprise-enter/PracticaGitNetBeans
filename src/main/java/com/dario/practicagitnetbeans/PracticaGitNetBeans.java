@@ -17,7 +17,7 @@ public class PracticaGitNetBeans {
     }
 
     public static String saludar(String nombre) {
-        return "Hola, " + nombre + ". Proyecto versionado con Git desde NetBeans.";
+        return "Hola, " + nombre + ". Proyecto gestionado con Git y GitHub.";
     }
 
     public static String despedir(String nombre) {
